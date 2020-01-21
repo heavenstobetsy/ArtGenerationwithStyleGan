@@ -11,4 +11,4 @@ I also used Google Colab notebook for this project in order to learn how it work
 
 In the meantime, the Sample Images folder contains snapshots of the training in progess. Enjoy!
 
-![My image](heavenstobetsy.github.com/ArtGenerationwithStyleGan/Sample Images/fakes_close_up1.png)
+![Fakes1](https://github.com/heavenstobetsy/ArtGenerationwithStyleGan/blob/master/Sample%20Images/fakes_close_up1.png)
