@@ -11,7 +11,7 @@ I also used Google Colab notebook for this project in order to learn how it work
 
 In the meantime, the Sample Images folder contains snapshots of the training in progess. Enjoy!
 
-<img src="https://github.com/heavenstobetsy/ArtGenerationwithStyleGan/blob/master/Sample%20Images/fakes_close_up1.png" alt="Fakes1" width="150"/>
+<img src="https://github.com/heavenstobetsy/ArtGenerationwithStyleGan/blob/master/Sample%20Images/fakes_close_up1.png" alt="Fakes1" width="200"/>
 
 ![Fakes2](https://github.com/heavenstobetsy/ArtGenerationwithStyleGan/blob/master/Sample%20Images/fakes_close_up2.png)
 
