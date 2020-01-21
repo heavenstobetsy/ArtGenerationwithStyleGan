@@ -7,4 +7,8 @@ I scraped Fauvism art from WikiArt as the basis of this model, as it's a distinc
 
 I also used Google Colab notebook for this project in order to learn how it works, and what can be done with it.
 
-#### This project currently is a WIP, currently finalizing the quality of the artwork.
+#### This project is currently being trained; I am finalizing the quality of the artwork.
+
+In the meantime, the Sample Images folder contains snapshots of the training in progess. Enjoy!
+
+![My image](heavenstobetsy.github.com/ArtGenerationwithStyleGan/Sample Images/fakes_close_up1.png)
