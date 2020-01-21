@@ -3,7 +3,7 @@
 ## Notes
 This project builds off of, and is inspired by StyleGAN - Official TensorFlow Implementation https://arxiv.org/abs/1812.04948
 
-I scraped Fauvism art from WikiArt as the basis of this model, as it's a distinct, fun style with bold colors, which results in interesting art being created.
+I scraped Fauvism art from WikiArt as the basis of this model, as it's a distinct, fun style with bold colors and thick lines of paint--perfect for experimentation.
 
 I also used Google Colab notebook for this project in order to learn how it works, and what can be done with it.
 
