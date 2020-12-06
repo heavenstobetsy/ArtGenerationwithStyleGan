@@ -13,3 +13,4 @@ I scraped Fauvism art from WikiArt as the basis of this model, as it's a distinc
 
 <img src="https://github.com/heavenstobetsy/ArtGenerationwithStyleGan/blob/master/Sample%20Images/fakes_close_up3.png" alt="Fakes3" width="350"/>
 
+ 
